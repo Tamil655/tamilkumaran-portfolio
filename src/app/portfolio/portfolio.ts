@@ -55,13 +55,14 @@ export class PortfolioComponent {
   skills: string[] = [
     'HTML5',
     'CSS3',
+    'JavaScript',
     'TypeScript',
     'Bootstrap',
     'Angular',
     // 'Responsive Design',
     // 'Git',
     // 'GitHub',
-    'Figma (Basic)',
+    // 'Figma (Basic)',
     // 'Azure (Basic)',
     // 'Postman',
     // 'VS Code'
